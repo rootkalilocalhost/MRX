@@ -1,0 +1,81 @@
+IP,Port,Country,Delay 24.02.22,TYPE
+176.31.69.143,2002,France,291 мс,Socks 5
+192.252.220.92,17328,United States,1120 мс,Socks 5
+18.206.250.157,20000,United States  Ashburn,1757 мс,Socks 5
+69.61.200.104,36181,United States  Cincinnati,2235 мс,Socks 5
+89.201.4.136,33427,Latvia  Riga,3126 мс,Socks 5
+95.0.206.51,10820,Turkey  Ankara,4224 мс,Socks 5
+211.140.252.244,7300,China,1478 мс,Socks 5
+222.187.74.212,8902,China  Baihecun,2244 мс,Socks 5
+192.111.130.2,4145,Canada,866 мс,Socks 4/5
+72.49.49.11,31034,United States  Cincinnati,1984 мс,Socks 4
+192.252.215.5,16137,United States,846 мс,Socks 4
+66.42.224.229,41679,United States  Hamilton,4449 мс,Socks 4/5
+208.102.51.6,58208,United States  Alexandria,2078 мс,Socks 4/5
+18.213.116.166,20000,United States  Ashburn,4832 мс,Socks 5
+67.201.33.9,25280,United States  Simi Valley,1609 мс,Socks 4
+138.197.193.107,9050,United States  Santa Clara,6049 мс,Socks 4
+68.71.249.153,48606,Canada  Etobicoke,935 мс,Socks 4/5
+109.72.231.37,1080,Russian Federation  Romashkovo,9 мс,Socks 5
+192.252.211.197,14921,United States,1029 мс,Socks 5
+202.6.225.92,1080,Indonesia  Surabaya,989 мс,Socks 4
+138.68.51.109,9050,United States  Santa Clara,3001 мс,Socks 4/5
+134.209.148.107,8080,India  Bengaluru,3098 мс,Socks 5
+50.62.56.97,18240,United States,8203 мс,Socks 5
+192.169.244.80,18212,United States,5719 мс,Socks 4
+67.201.33.10,25283,United States  Simi Valley,943 мс,Socks 4/5
+150.129.151.62,6667,India  Veraval,5073 мс,Socks 4/5
+144.126.142.41,42127,United States  St Louis,4840 мс,Socks 4
+124.107.231.82,1080,Philippines  Marawi City,2545 мс,Socks 5
+79.253.203.33,8080,Germany  Ruhpolding,1557 мс,HTTP
+102.130.79.254,3128,South Africa  Pretoria,6497 мс,SSL
+14.207.149.139,9080,Thailand  Nakhon Pathom,1830 мс,HTTP
+128.199.202.122,3128,Singapore  Singapore,1490 мс,HTTP
+93.240.114.68,4003,Germany  Ulm,3996 мс,HTTP
+170.155.5.235,8080,Argentina  Castelar,1281 мс,HTTP
+66.29.154.103,3128,United States,740 мс,HTTP
+103.232.215.194,80,Singapore,830 мс,HTTP
+169.57.1.85,8123,Mexico  Mexico City,1098 мс,SSL
+66.29.154.105,3128,United States,740 мс,HTTP
+107.151.182.247,80,United States,751 мс,HTTP
+5.167.141.239,3128,Russian Federation,1981 мс,HTTP
+34.201.41.177,8080,United States  Ashburn,481 мс,HTTP
+103.97.200.52,80,Hong Kong,880 мс,HTTP
+103.148.72.192,80,Hong Kong,1165 мс,HTTP
+54.244.204.46,80,United States  Boardman,754 мс,HTTP
+103.177.45.7,80,Hong Kong  Central,887 мс,HTTP
+63.161.104.189,3128,United States  Mamaroneck,1153 мс,HTTP
+213.230.97.10,3128,Uzbekistan  Tashkent,6698 мс,HTTP
+20.47.108.204,8888,United States  Tappahannock,504 мс,HTTP
+8.210.83.33,80,Hong Kong  Central,1899 мс,HTTP
+47.74.152.29,8888,Singapore  Singapore,756 мс,HTTP
+64.227.62.123,80,United States  Santa Clara,729 мс,HTTP
+216.137.184.253,80,United States,5187 мс,HTTP
+151.106.17.124,1080,France  Strasbourg,1080 мс,HTTP
+164.132.106.217,8087,France,2443 мс,HTTP
+85.25.119.221,5566,France  Strasbourg,2903 мс,HTTP
+85.25.119.98,5566,France  Strasbourg,1805 мс,HTTP
+188.138.11.48,5566,France  Strasbourg,5084 мс,HTTP
+62.75.229.51,5566,France  Strasbourg,4957 мс,HTTP
+159.65.171.69,80,United States  Clifton,1003 мс,HTTP
+170.83.108.65,8080,Argentina  Carcarana,5779 мс,HTTP
+62.75.229.77,5566,France  Strasbourg,2223 мс,HTTP
+85.25.150.32,5566,France  Strasbourg,4923 мс,HTTP
+47.252.82.135,8080,United States,516 мс,HTTP
+5.160.84.138,8080,Iran,1154 мс,HTTP
+45.175.160.34,999,Argentina,4547 мс,HTTP
+85.25.4.27,5566,France  Strasbourg,1800 мс,HTTP
+85.25.72.91,5566,France  Strasbourg,5122 мс,HTTP
+151.106.17.125,1080,France  Strasbourg,3745 мс,HTTP
+173.249.57.9,443,Germany  Nuremberg,2123 мс,SSL
+185.122.201.243,80,Turkey  Istanbul,5229 мс,HTTP
+151.106.13.222,1080,France  Strasbourg,3930 мс,HTTP
+151.106.17.126,1080,France  Strasbourg,182 мс,HTTP
+41.65.251.84,1981,Egypt,5531 мс,HTTP
+190.115.12.20,999,Guatemala  Guatemala City,3317 мс,HTTP
+134.209.148.107,8081,India  Bengaluru,5680 мс,HTTP
+85.25.99.106,5566,France  Strasbourg,6402 мс,HTTP
+161.35.161.38,80,United Kingdom  London,3635 мс,HTTP
+103.147.247.15,8080,Indonesia  Tangerang,2755 мс,HTTP
+103.154.120.107,8080,Indonesia,6323 мс,HTTP
+159.203.61.169,3128,Canada  Toronto,3219 мс,HTTP
